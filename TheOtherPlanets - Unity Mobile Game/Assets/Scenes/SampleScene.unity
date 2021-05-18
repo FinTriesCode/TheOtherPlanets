@@ -423,7 +423,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!114 &619095049
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1011,7 +1011,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -204.5, y: -74.5}
+  m_AnchoredPosition: {x: -150.9, y: -98.09999}
   m_SizeDelta: {x: 50.26867, y: 30.078335}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1126164189
@@ -1371,7 +1371,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -165.6, y: -109}
+  m_AnchoredPosition: {x: -112, y: -132.59999}
   m_SizeDelta: {x: 50.26867, y: 30.078335}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1410983153
@@ -1501,7 +1501,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -165.6, y: -39.4}
+  m_AnchoredPosition: {x: -112, y: -63}
   m_SizeDelta: {x: 50.26867, y: 30.078335}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1525680208
@@ -5511,7 +5511,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -129.8, y: -74.5}
+  m_AnchoredPosition: {x: -76.2, y: -98.09999}
   m_SizeDelta: {x: 50.26867, y: 30.078335}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2014381547
